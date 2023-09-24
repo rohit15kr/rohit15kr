@@ -48,10 +48,4 @@ src="https://img.shields.io/github/followers/piyushkumarg?logo=github&style=for-
   
   ---
   
-  ## Github Activity📊:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkumarg&show_icons=true&locale=en&layout=compact" alt="piyushkumarg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkumarg&show_icons=true&locale=en" alt="piyushkumarg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumarg&" alt="piyushkumarg" /></p>
